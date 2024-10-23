@@ -15,7 +15,7 @@ print("In 5 seconds, scan the QR code.")
 time.sleep(5)  
 
 contacts_and_files = [
-    ('6379649626', r'C:\Users\admin\Documents\A.KARTHIKEYAN[192325143]poster-1[1].pptx'),
+    ('1213321123', r'C:\Users\admin\Documents\A.KARTHIKEYAN[192325143]poster-1[1].pptx'),
 ]
 
 for phone_number, file_path in contacts_and_files:
